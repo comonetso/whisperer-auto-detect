@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="favicon.ico" --add-data "messages.py;." --add-data "README.md;." --add-data "README.KR.md;." --add-data "favicon.ico;." --name "Yeogiaen_WhisperTyper" whisperer.py
