@@ -1,0 +1,30 @@
+# OpenAI API 키 관련 파일
+openai_api_key.txt
+
+# 빌드 및 배포 관련 파일
+/build/
+/dist/
+*.spec
+*.exe
+*.pyc
+*.pyd
+*.pyo
+__pycache__/
+
+# 가상 환경
+/venv/
+/env/
+
+# 로컬 개발 환경 설정
+.idea/
+.vscode/
+
+# 녹음 파일 폴더
+/recordings/
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*~
